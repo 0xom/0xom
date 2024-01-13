@@ -10,9 +10,10 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-<div style="text-align:center;">
+<p align="center">
     <img src="https://giffiles.alphacoders.com/947/9473.gif" alt="Ironman 2 Suit Up">
-</div>
+</p>
+
 
 <h2 align="center">I Write Quant Code For Quant Trading</h2>
 <h4 align="center">Software Engineering | Quantitative Finance | Risk Taking</h4>
