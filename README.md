@@ -37,24 +37,7 @@
 <img src = "https://img.shields.io/badge/Mathematica-white?style=for-the-badge&logo=wolframmathematica&logoColor=red"></center>
 <img src = "https://img.shields.io/badge/Matlab-white?style=for-the-badge"></center>
 <img src = "https://img.shields.io/badge/VBA-white?style=for-the-badge&logo=microsoftexcel&logoColor=green"></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
-<img src = ""></center>
+
 
 
 
